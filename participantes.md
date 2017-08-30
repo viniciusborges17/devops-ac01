@@ -4,3 +4,4 @@ Jheimisson Oliveira Sampaio - RA 1700786
 Vinicius Borges Oliveira    - RA 1705599
 Victor Camilo               - RA 1700608
 Vitor Bella Lorente         - RA 1700804
+Renato Colbar               - RA 1700808
